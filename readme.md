@@ -1,6 +1,8 @@
 # Atticus Dashboard
 
-Atticus Dashboard is a web-based dashboard that provides various information and services in a centralized view.
+🅰️ - Atticus Dashboard is a web-based dashboard that provides various information and services in a centralized view.
+If this project helped you in any way, please consider giving it a ⭐️. Thank you!
+![Atticus Dashboard](https://i.imgur.com/fLcvjbk.png)
 
 ## Table of Contents
 
