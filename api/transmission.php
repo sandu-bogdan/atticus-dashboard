@@ -1,6 +1,6 @@
 <?php
 
-include 'config.php';
+include '../config/config.php';
 
 $json = array("arguments" => "{}",
 "method" => "session-stats") ;

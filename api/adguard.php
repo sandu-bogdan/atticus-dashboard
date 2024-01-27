@@ -1,6 +1,6 @@
 <?php
 
-include 'config.php';
+include '../config/config.php';
 
 // Create cURL resource
 $ch = curl_init($apiEndpointAdGuard);
